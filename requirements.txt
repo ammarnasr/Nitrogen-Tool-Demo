@@ -1,0 +1,6 @@
+sentinelhub
+geopandas
+rioxarray
+sklearn
+matplotlib
+pandas
